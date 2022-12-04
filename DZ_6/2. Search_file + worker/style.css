@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+}
+
+#userCount {
+    border: none;
+    margin-left: 20px;
+}
